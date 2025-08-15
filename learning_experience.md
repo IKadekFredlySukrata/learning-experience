@@ -7,7 +7,7 @@ I Kadek Fredly Sukrata <br>
 23051204107 <br>
 TI23D <br>
 
-** August 15, 2025
+** August 15, 2025 ** <br>
 
 I learned two courses in the last three days, such as: <br>
 1. Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
