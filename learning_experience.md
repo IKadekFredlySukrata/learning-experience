@@ -1,12 +1,13 @@
 # Asah-IedLearning-Experience
 
-August 15, 2025
+Learning Experience
 -- 
-
 Student Info: <br>
 I Kadek Fredly Sukrata <br>
 23051204107 <br>
 TI23D <br>
+
+** August 15, 2025
 
 I learned two courses in the last three days, such as: <br>
 1. Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
