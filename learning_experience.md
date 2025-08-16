@@ -1,9 +1,9 @@
 # Asah-IedLearning-Experience
 
 #### Student Info <br>
-I Kadek Fredly Sukrata <br>
-23051204107 <br>
-TI23D <br>
+Nama    : I Kadek Fredly Sukrata <br>
+NIM     :23051204107 <br>
+Kelas   : TI23D <br>
 
 Learning Experience
 -- 
