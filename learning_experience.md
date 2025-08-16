@@ -36,6 +36,3 @@ I also forgot to update my logbook for my university administration <br>
 Update (5:12 PM):
 I studied for 3 hours and I managed to learn about 14 materials on the Git and GitHub course. <br>
 I wish I could get this course done by today, because tomorrow I have another plan. <br>
-
-Ugh... I'm tired and bored as hell. Why does Dicoding not teach me how to use Git Bash? It'll be closer and faster, no? <br>
-I know that some parts need to be run using GitHub, but I also know that not everything should be done through GitHub <br>
