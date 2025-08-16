@@ -24,3 +24,9 @@ I made some porgress, and now, it's sitting about 39% done or about 22 materials
 that doesn't include the Git Bash that I learned by myself for an hour.
 
 I got bored with Dicoding tutorial showing me how to use it using GitHub GUI.
+
+<strong> August 16, 2025 </strong> <br>
+
+I started learning at 12.25 PM, because yesterday was really tiring me off, and I couldn't sleep until 1.30 AM. <br>
+Today, I'm planning to study for six hours with 50-10 pomodoro, or if and only if I manage to get this Git and GitHub <br>
+before the 6-hour timeframe, I can call it a day. <br>
